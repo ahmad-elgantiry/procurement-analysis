@@ -2,5 +2,5 @@
 - I creat a script to analyse the procurment process ( PR - PO - goods recieved - invoices recieved - payments ) ,
 - the analysing script file is insights.ipynb ,
 - I made a report based on the insights.ipynb ,
-- the report is in pdf file name (procurment process analysis) ,
+- the report is  attached  power point file (analysing procurment process) ,
 - I made a dashboard showing more insights ,
